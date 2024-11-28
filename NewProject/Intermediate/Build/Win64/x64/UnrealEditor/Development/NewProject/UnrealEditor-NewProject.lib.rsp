@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-NewProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\code\NewProject\NewProject\Intermediate\Build\Win64\x64\NewProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\code\NewProject\NewProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\NewProject\NewProject.cpp.obj"
+"C:\code\NewProject\NewProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\NewProject\Default.rc2.res"
+/OUT:"C:\code\NewProject\NewProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\NewProject\UnrealEditor-NewProject.lib"
