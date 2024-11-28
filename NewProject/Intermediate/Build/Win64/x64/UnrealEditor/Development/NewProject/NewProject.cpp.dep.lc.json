@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\code\\newproject\\newproject\\source\\newproject\\newproject.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\code\\newproject\\newproject\\intermediate\\build\\win64\\x64\\newprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\code\\newproject\\newproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\newproject\\definitions.newproject.h",
+            "c:\\code\\newproject\\newproject\\source\\newproject\\newproject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

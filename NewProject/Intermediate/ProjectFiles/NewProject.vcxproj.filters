@@ -11,6 +11,7 @@
     <None Include="..\..\Source\NewProjectEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -29,6 +30,12 @@
     <Filter Include="Source\NewProject">
       <UniqueIdentifier>{64D48184-F4CF-3BB8-B908-F834F22AD269}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\NewProject\InGameMode.cpp">
+      <Filter>Source\NewProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NewProject\InGameMode.h">
+      <Filter>Source\NewProject</Filter>
+    </ClInclude>
     <None Include="..\..\Source\NewProject\NewProject.Build.cs">
       <Filter>Source\NewProject</Filter>
     </None>
