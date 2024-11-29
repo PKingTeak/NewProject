@@ -8,8 +8,10 @@
 /NODEFAULTLIB
 "C:\code\NewProject\NewProject\Intermediate\Build\Win64\x64\NewProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
 "C:\code\NewProject\NewProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\NewProject\InGameMode.gen.cpp.obj"
+"C:\code\NewProject\NewProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\NewProject\NewPlayer_C.gen.cpp.obj"
 "C:\code\NewProject\NewProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\NewProject\NewProject.init.gen.cpp.obj"
 "C:\code\NewProject\NewProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\NewProject\InGameMode.cpp.obj"
 "C:\code\NewProject\NewProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\NewProject\NewProject.cpp.obj"
+"C:\code\NewProject\NewProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\NewProject\NewPlayer_C.cpp.obj"
 "C:\code\NewProject\NewProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\NewProject\Default.rc2.res"
 /OUT:"C:\code\NewProject\NewProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\NewProject\UnrealEditor-NewProject.lib"

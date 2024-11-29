@@ -36,6 +36,12 @@
     <ClInclude Include="..\..\Source\NewProject\InGameMode.h">
       <Filter>Source\NewProject</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\NewProject\NewPlayer_C.cpp">
+      <Filter>Source\NewProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NewProject\NewPlayer_C.h">
+      <Filter>Source\NewProject</Filter>
+    </ClInclude>
     <None Include="..\..\Source\NewProject\NewProject.Build.cs">
       <Filter>Source\NewProject</Filter>
     </None>
