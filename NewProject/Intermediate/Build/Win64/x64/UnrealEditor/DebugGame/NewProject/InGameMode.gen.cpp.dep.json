@@ -1,19 +1,19 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\code\\newproject\\newproject\\intermediate\\build\\win64\\unrealeditor\\inc\\newproject\\uht\\ingamemode.gen.cpp",
+        "Source": "d:\\newproject\\newproject\\intermediate\\build\\win64\\unrealeditor\\inc\\newproject\\uht\\ingamemode.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\code\\newproject\\newproject\\intermediate\\build\\win64\\x64\\newprojecteditor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.cpp20.h.pch",
+        "PCH": "d:\\newproject\\newproject\\intermediate\\build\\win64\\x64\\newprojecteditor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.cpp20.h.pch",
         "Includes": [
-            "c:\\code\\newproject\\newproject\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\newproject\\definitions.newproject.h",
-            "c:\\code\\newproject\\newproject\\source\\newproject\\ingamemode.h",
-            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemode.h",
-            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
-            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
-            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
-            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
-            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemode.generated.h",
-            "c:\\code\\newproject\\newproject\\intermediate\\build\\win64\\unrealeditor\\inc\\newproject\\uht\\ingamemode.generated.h"
+            "d:\\newproject\\newproject\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\newproject\\definitions.newproject.h",
+            "d:\\newproject\\newproject\\source\\newproject\\ingamemode.h",
+            "d:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemode.h",
+            "d:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemode.generated.h",
+            "d:\\newproject\\newproject\\intermediate\\build\\win64\\unrealeditor\\inc\\newproject\\uht\\ingamemode.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

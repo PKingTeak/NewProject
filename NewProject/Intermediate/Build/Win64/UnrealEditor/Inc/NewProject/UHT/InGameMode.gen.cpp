@@ -82,14 +82,14 @@ AInGameMode::~AInGameMode() {}
 // End Class AInGameMode
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_code_NewProject_NewProject_Source_NewProject_InGameMode_h_Statics
+struct Z_CompiledInDeferFile_FID_NewProject_NewProject_Source_NewProject_InGameMode_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_AInGameMode, AInGameMode::StaticClass, TEXT("AInGameMode"), &Z_Registration_Info_UClass_AInGameMode, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AInGameMode), 3637396629U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_code_NewProject_NewProject_Source_NewProject_InGameMode_h_2453914480(TEXT("/Script/NewProject"),
-	Z_CompiledInDeferFile_FID_code_NewProject_NewProject_Source_NewProject_InGameMode_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_code_NewProject_NewProject_Source_NewProject_InGameMode_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_NewProject_NewProject_Source_NewProject_InGameMode_h_2453914480(TEXT("/Script/NewProject"),
+	Z_CompiledInDeferFile_FID_NewProject_NewProject_Source_NewProject_InGameMode_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_NewProject_NewProject_Source_NewProject_InGameMode_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

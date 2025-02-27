@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-NewProject-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\code\NewProject\NewProject\Intermediate\Build\Win64\x64\NewProjectEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.h.obj"
+"C:\code\NewProject\NewProject\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\NewProject\InGameMode.gen.cpp.obj"
+"C:\code\NewProject\NewProject\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\NewProject\NewPlayer_C.gen.cpp.obj"
+"C:\code\NewProject\NewProject\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\NewProject\NewProject.init.gen.cpp.obj"
+"C:\code\NewProject\NewProject\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\NewProject\InGameMode.cpp.obj"
+"C:\code\NewProject\NewProject\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\NewProject\NewProject.cpp.obj"
+"C:\code\NewProject\NewProject\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\NewProject\NewPlayer_C.cpp.obj"
+"C:\code\NewProject\NewProject\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\NewProject\Default.rc2.res"
+/OUT:"C:\code\NewProject\NewProject\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\NewProject\UnrealEditor-NewProject-Win64-DebugGame.lib"

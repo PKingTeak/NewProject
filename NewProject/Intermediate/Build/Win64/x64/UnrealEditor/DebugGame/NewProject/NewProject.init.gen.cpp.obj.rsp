@@ -1,11 +1,11 @@
-"C:\code\NewProject\NewProject\Intermediate\Build\Win64\UnrealEditor\Inc\NewProject\UHT\NewProject.init.gen.cpp"
-/FI"C:\code\NewProject\NewProject\Intermediate\Build\Win64\x64\NewProjectEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.h"
-/FI"C:\code\NewProject\NewProject\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\NewProject\Definitions.NewProject.h"
-/Yu"C:\code\NewProject\NewProject\Intermediate\Build\Win64\x64\NewProjectEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.h"
-/Fp"C:\code\NewProject\NewProject\Intermediate\Build\Win64\x64\NewProjectEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.h.pch"
-/Fo"C:\code\NewProject\NewProject\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\NewProject\NewProject.init.gen.cpp.obj"
-/sourceDependencies "C:\code\NewProject\NewProject\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\NewProject\NewProject.init.gen.cpp.dep.json"
-@"C:\code\NewProject\NewProject\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\NewProject\NewProject.Shared.rsp"
+"D:\NewProject\NewProject\Intermediate\Build\Win64\UnrealEditor\Inc\NewProject\UHT\NewProject.init.gen.cpp"
+/FI"D:\NewProject\NewProject\Intermediate\Build\Win64\x64\NewProjectEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.h"
+/FI"D:\NewProject\NewProject\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\NewProject\Definitions.NewProject.h"
+/Yu"D:\NewProject\NewProject\Intermediate\Build\Win64\x64\NewProjectEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.h"
+/Fp"D:\NewProject\NewProject\Intermediate\Build\Win64\x64\NewProjectEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.h.pch"
+/Fo"D:\NewProject\NewProject\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\NewProject\NewProject.init.gen.cpp.obj"
+/sourceDependencies "D:\NewProject\NewProject\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\NewProject\NewProject.init.gen.cpp.dep.json"
+@"D:\NewProject\NewProject\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\NewProject\NewProject.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

@@ -105,14 +105,14 @@ ANewPlayer_C::~ANewPlayer_C() {}
 // End Class ANewPlayer_C
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_code_NewProject_NewProject_Source_NewProject_NewPlayer_C_h_Statics
+struct Z_CompiledInDeferFile_FID_NewProject_NewProject_Source_NewProject_NewPlayer_C_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_ANewPlayer_C, ANewPlayer_C::StaticClass, TEXT("ANewPlayer_C"), &Z_Registration_Info_UClass_ANewPlayer_C, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ANewPlayer_C), 229475998U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_code_NewProject_NewProject_Source_NewProject_NewPlayer_C_h_2338602628(TEXT("/Script/NewProject"),
-	Z_CompiledInDeferFile_FID_code_NewProject_NewProject_Source_NewProject_NewPlayer_C_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_code_NewProject_NewProject_Source_NewProject_NewPlayer_C_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_NewProject_NewProject_Source_NewProject_NewPlayer_C_h_2338602628(TEXT("/Script/NewProject"),
+	Z_CompiledInDeferFile_FID_NewProject_NewProject_Source_NewProject_NewPlayer_C_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_NewProject_NewProject_Source_NewProject_NewPlayer_C_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

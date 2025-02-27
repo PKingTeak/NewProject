@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\code\\NewProject\\NewProject\\Source\\NewProject\\NewProject.Build.cs",
-		"C:\\code\\NewProject\\NewProject\\Source\\NewProject.Target.cs",
-		"C:\\code\\NewProject\\NewProject\\Source\\NewProjectEditor.Target.cs"
+		"D:\\NewProject\\NewProject\\Source\\NewProject\\NewProject.Build.cs",
+		"D:\\NewProject\\NewProject\\Source\\NewProject.Target.cs",
+		"D:\\NewProject\\NewProject\\Source\\NewProjectEditor.Target.cs"
 	],
 	"EngineVersion": "5.4.4"
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a/hA5df96fo=",
+  "dgSpecHash": "46eV98u1G8Y7C7dxOufSjbY7q9MJ1RnLDOZB2ev9J+lpcj7M3j0J1F28oAzpR5mfl72wUzS/k1ovCJNQCxGRjA==",
   "success": true,
-  "projectFilePath": "C:\\code\\NewProject\\NewProject\\Intermediate\\Build\\BuildRulesProjects\\NewProjectModuleRules\\NewProjectModuleRules.csproj",
+  "projectFilePath": "D:\\NewProject\\NewProject\\Intermediate\\Build\\BuildRulesProjects\\NewProjectModuleRules\\NewProjectModuleRules.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rudxo\\.nuget\\packages\\bitfaster.caching\\2.4.1\\bitfaster.caching.2.4.1.nupkg.sha512",
     "C:\\Users\\rudxo\\.nuget\\packages\\blake3\\0.5.1\\blake3.0.5.1.nupkg.sha512",
@@ -148,10 +148,7 @@
     "C:\\Users\\rudxo\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\rudxo\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
     "C:\\Users\\rudxo\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\rudxo\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\rudxo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
-    "C:\\Users\\rudxo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
-    "C:\\Users\\rudxo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512"
+    "C:\\Users\\rudxo\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

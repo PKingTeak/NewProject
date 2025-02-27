@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define NEWPROJECT_NewPlayer_C_generated_h
 
-#define FID_code_NewProject_NewProject_Source_NewProject_NewPlayer_C_h_18_INCLASS_NO_PURE_DECLS \
+#define FID_NewProject_NewProject_Source_NewProject_NewPlayer_C_h_18_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesANewPlayer_C(); \
 	friend struct Z_Construct_UClass_ANewPlayer_C_Statics; \
@@ -23,7 +23,7 @@ public: \
 	DECLARE_SERIALIZER(ANewPlayer_C)
 
 
-#define FID_code_NewProject_NewProject_Source_NewProject_NewPlayer_C_h_18_ENHANCED_CONSTRUCTORS \
+#define FID_NewProject_NewProject_Source_NewProject_NewPlayer_C_h_18_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	ANewPlayer_C(ANewPlayer_C&&); \
@@ -35,12 +35,12 @@ public: \
 	NO_API virtual ~ANewPlayer_C();
 
 
-#define FID_code_NewProject_NewProject_Source_NewProject_NewPlayer_C_h_15_PROLOG
-#define FID_code_NewProject_NewProject_Source_NewProject_NewPlayer_C_h_18_GENERATED_BODY \
+#define FID_NewProject_NewProject_Source_NewProject_NewPlayer_C_h_15_PROLOG
+#define FID_NewProject_NewProject_Source_NewProject_NewPlayer_C_h_18_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_code_NewProject_NewProject_Source_NewProject_NewPlayer_C_h_18_INCLASS_NO_PURE_DECLS \
-	FID_code_NewProject_NewProject_Source_NewProject_NewPlayer_C_h_18_ENHANCED_CONSTRUCTORS \
+	FID_NewProject_NewProject_Source_NewProject_NewPlayer_C_h_18_INCLASS_NO_PURE_DECLS \
+	FID_NewProject_NewProject_Source_NewProject_NewPlayer_C_h_18_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -48,7 +48,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> NEWPROJECT_API UClass* StaticClass<class ANewPlayer_C>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_code_NewProject_NewProject_Source_NewProject_NewPlayer_C_h
+#define CURRENT_FILE_ID FID_NewProject_NewProject_Source_NewProject_NewPlayer_C_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
