@@ -30,6 +30,12 @@
     <Filter Include="Source\NewProject">
       <UniqueIdentifier>{64D48184-F4CF-3BB8-B908-F834F22AD269}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\NewProject\Anim_Inst.cpp">
+      <Filter>Source\NewProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NewProject\Anim_Inst.h">
+      <Filter>Source\NewProject</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\NewProject\InGameMode.cpp">
       <Filter>Source\NewProject</Filter>
     </ClCompile>

@@ -16,13 +16,11 @@ ANewPlayer_C::ANewPlayer_C()
 	CameraComp->AttachToComponent(SpringArm, FAttachmentTransformRules::KeepRelativeTransform);
 	SpringArm->bUsePawnControlRotation = true;
 	SpringArm->bEnableCameraLag = true;
-	SpringArm->TargetArmLength = 300.0f;
+	SpringArm->TargetArmLength = 0.0f;
 	 
 #pragma endregion 
 
 	//spring Arm 자식의 컴포넌트로 카메라 묶기 
-
-
 	PrimaryActorTick.bCanEverTick = true;
 
 }

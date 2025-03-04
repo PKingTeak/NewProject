@@ -46,6 +46,8 @@ public:
 
 
 private:
+	
+	//UPROPERTY(EditAnywhere, BlueprintReadOnly, Catagory = Info, meta = (AllowPrivateAccess = "true")
 
 	UPROPERTY()
 	int Speed = 0;

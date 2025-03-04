@@ -46,7 +46,13 @@ struct Z_Construct_UClass_ANewPlayer_C_Statics
 		{ "ModuleRelativePath", "NewPlayer_C.h" },
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_Speed_MetaData[] = {
+#if !UE_BUILD_SHIPPING
+		{ "Comment", "//UPROPERTY(EditAnywhere, BlueprintReadOnly, Catagory = Info, meta = (AllowPrivateAccess = \"true\")\n" },
+#endif
 		{ "ModuleRelativePath", "NewPlayer_C.h" },
+#if !UE_BUILD_SHIPPING
+		{ "ToolTip", "UPROPERTY(EditAnywhere, BlueprintReadOnly, Catagory = Info, meta = (AllowPrivateAccess = \"true\")" },
+#endif
 	};
 #endif // WITH_METADATA
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_SpringArm;
@@ -108,10 +114,10 @@ ANewPlayer_C::~ANewPlayer_C() {}
 struct Z_CompiledInDeferFile_FID_NewProject_NewProject_Source_NewProject_NewPlayer_C_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_ANewPlayer_C, ANewPlayer_C::StaticClass, TEXT("ANewPlayer_C"), &Z_Registration_Info_UClass_ANewPlayer_C, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ANewPlayer_C), 229475998U) },
+		{ Z_Construct_UClass_ANewPlayer_C, ANewPlayer_C::StaticClass, TEXT("ANewPlayer_C"), &Z_Registration_Info_UClass_ANewPlayer_C, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ANewPlayer_C), 3014541970U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_NewProject_NewProject_Source_NewProject_NewPlayer_C_h_2338602628(TEXT("/Script/NewProject"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_NewProject_NewProject_Source_NewProject_NewPlayer_C_h_3458999284(TEXT("/Script/NewProject"),
 	Z_CompiledInDeferFile_FID_NewProject_NewProject_Source_NewProject_NewPlayer_C_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_NewProject_NewProject_Source_NewProject_NewPlayer_C_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
