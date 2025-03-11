@@ -36,6 +36,18 @@
     <ClInclude Include="..\..\Source\NewProject\Anim_Inst.h">
       <Filter>Source\NewProject</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\NewProject\Block.cpp">
+      <Filter>Source\NewProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NewProject\Block.h">
+      <Filter>Source\NewProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\NewProject\BlockSetting.cpp">
+      <Filter>Source\NewProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NewProject\BlockSetting.h">
+      <Filter>Source\NewProject</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\NewProject\InGameMode.cpp">
       <Filter>Source\NewProject</Filter>
     </ClCompile>

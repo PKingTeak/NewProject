@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\newproject\\newproject\\intermediate\\build\\win64\\unrealeditor\\inc\\newproject\\uht\\block.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\newproject\\newproject\\intermediate\\build\\win64\\x64\\newprojecteditor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\newproject\\newproject\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\newproject\\definitions.newproject.h",
+            "d:\\newproject\\newproject\\source\\newproject\\block.h",
+            "d:\\newproject\\newproject\\intermediate\\build\\win64\\unrealeditor\\inc\\newproject\\uht\\block.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
