@@ -4,6 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
+
 #include "BlockSetting.generated.h"
 
 UCLASS()
@@ -28,21 +29,38 @@ public:
 	UFUNCTION(BlueprintCallable)
 	void CreateBlock(FVector Location);
 	
+
 	UFUNCTION(BlueprintCallable)
-	void SettingBlock(int Width, int Height);
+	void SettingBlock(int _Width, int _Height);
+	
+	
 
 	
 
 private:
 
-
 	UPROPERTY()
-	TArray<AActor*> Blocks;
-
+	TArray<AActor*> BlocksArr;
+	
 	UPROPERTY()
 	int Height;
 	UPROPERTY()
 	int Width;
 
+	UFUNCTION()
+	int GetIndex(int X, int Y) const
+	{
+		return X + Y * Width;
+	}
+
+	UFUNCTION()
+	AActor* GetBlock(int X, int Y) const
+	{
+		if (X < 0 || X >= Width || Y < 0 || Y >= Height)
+		{
+			return nullptr; // 유효하지 않은 좌표
+		}
+		return BlocksArr[GetIndex(X, Y)];
+	}
 	
 };
